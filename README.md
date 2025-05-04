@@ -26,10 +26,10 @@ You can install the required libraries using `pip`:
 pip install discord.py aiohttp requests python-dotenv
 ```
 
-**Setup**
+## Setup
 1. Clone this Repository
 Clone the bot repository to your local machine:
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/AlFarrizi/HeroX.git
+cd Herox.git
 ```
