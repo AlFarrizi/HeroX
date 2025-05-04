@@ -1,0 +1,8 @@
+{
+  "scanning_url": "Detected URL, scanning...",
+  "scanning_file": "Detected file, scanning...",
+  "scan_result_url": "Scan Result for URL",
+  "scan_result_file": "Scan Result for File",
+  "failed_url": "Failed to scan URL",
+  "failed_file": "Failed to scan file"
+}

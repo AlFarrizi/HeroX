@@ -1,0 +1,9 @@
+{
+    "scanning_url": "URL erkannt, wird gescannt...",
+    "scanning_file": "Datei erkannt, wird gescannt...",
+    "scan_result_url": "Scan-Ergebnis für URL",
+    "scan_result_file": "Scan-Ergebnis für Datei",
+    "failed_url": "Scan der URL fehlgeschlagen",
+    "failed_file": "Scan der Datei fehlgeschlagen"
+  }
+  

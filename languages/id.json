@@ -1,0 +1,8 @@
+{
+  "scanning_url": "Mendeteksi URL, sedang dipindai...",
+  "scanning_file": "Mendeteksi file, sedang dipindai...",
+  "scan_result_url": "Hasil Pemindaian URL",
+  "scan_result_file": "Hasil Pemindaian File",
+  "failed_url": "Gagal memindai URL",
+  "failed_file": "Gagal memindai file"
+}

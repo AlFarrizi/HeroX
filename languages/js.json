@@ -1,0 +1,9 @@
+{
+    "scanning_url": "URLを検出しました。スキャン中…",
+    "scanning_file": "ファイルを検出しました。スキャン中…",
+    "scan_result_url": "URLのスキャン結果",
+    "scan_result_file": "ファイルのスキャン結果",
+    "failed_url": "URLのスキャンに失敗しました",
+    "failed_file": "ファイルのスキャンに失敗しました"
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "scanning_url": "检测到网址，正在扫描……",
+    "scanning_file": "检测到文件，正在扫描……",
+    "scan_result_url": "网址扫描结果",
+    "scan_result_file": "文件扫描结果",
+    "failed_url": "扫描网址失败",
+    "failed_file": "扫描文件失败"
+  }
+  

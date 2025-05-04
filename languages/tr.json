@@ -1,0 +1,9 @@
+{
+    "scanning_url": "URL tespit edildi, taranıyor...",
+    "scanning_file": "Dosya tespit edildi, taranıyor...",
+    "scan_result_url": "URL için tarama sonucu",
+    "scan_result_file": "Dosya için tarama sonucu",
+    "failed_url": "URL taranamadı",
+    "failed_file": "Dosya taranamadı"
+  }
+  

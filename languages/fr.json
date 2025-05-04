@@ -1,0 +1,9 @@
+{
+    "scanning_url": "URL détectée, analyse en cours...",
+    "scanning_file": "Fichier détecté, analyse en cours...",
+    "scan_result_url": "Résultat de l'analyse de l'URL",
+    "scan_result_file": "Résultat de l'analyse du fichier",
+    "failed_url": "Échec de l'analyse de l'URL",
+    "failed_file": "Échec de l'analyse du fichier"
+  }
+  
