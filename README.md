@@ -64,7 +64,9 @@ Changes the bot's language to English.
 
 ## How It Works
 » When a user sends a message with URLs, the bot detects and displays those URLs in the channel.
+
 » If a message contains file attachments, the bot detects and displays the file name and URL to the file in the channel.
+
 » You can use slash commands to change the language of the bot or see which languages are available.
 
 ## Contributing
